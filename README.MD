@@ -8,8 +8,10 @@
 
 ### With plain css
 ![With plain css](./plain.png)
+![With plain css](./plain-m.png)
 
 
 ### With tailwind css
 ![With tailwind css](./tail.png)
+![With tailwind css](./tail-m.png)
 
