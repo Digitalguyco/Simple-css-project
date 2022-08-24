@@ -5,8 +5,11 @@
 
 #### Snapshots
 
+
+### With plain css
 ![With plain css](./plain.png)
 
 
+### With tailwind css
 ![With tailwind css](./tail.png)
 
